@@ -1,0 +1,33 @@
+.root {
+  position: relative;
+  width: 122px;
+  height: 35px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.button {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 5px;
+  background-color: #279ef4;
+}
+.buttonText {
+  color: #fff;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 37.7049%;
+  right: 36.8852%;
+  top: 22.8571%;
+  bottom: 22.8571%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

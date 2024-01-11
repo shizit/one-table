@@ -1,0 +1,8 @@
+.root {
+  position: absolute;
+  left: 267px;
+  top: 256px;
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+}
